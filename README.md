@@ -1,5 +1,7 @@
 # Shopify App Template - Ruby
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/isaacroldan/shopify-app-ruby)
+
 This is a template for building a [Shopify app](https://shopify.dev/apps/getting-started) using Ruby on Rails and React. It contains the basics for building a Shopify app.
 
 Rather than cloning this repo, you can use your preferred package manager and the Shopify CLI with [these steps](#installing-the-template).
