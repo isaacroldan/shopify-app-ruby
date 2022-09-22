@@ -2,6 +2,7 @@
 tasks:
   - init: |
       yarn install
+      yarn build
       cd web
       bundle install
       bin/rails app:template LOCATION=./template.rb
